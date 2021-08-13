@@ -43,8 +43,6 @@ but bulky household items such as furniture, appliances and bicycles, which are 
 residents depart the area. This encourages such residents to purchase low value items with little durability and
 little value in the second-hand market, leading to dumping and a surfeit of waste. What opportunities exist to
 develop a share economy program for better quality and more durable household items?</div>
-
-[Back To Top](#1-feit_hackathon)
 <br>
 
 # 3. Team Members
@@ -57,8 +55,6 @@ develop a share economy program for better quality and more durable household it
     c. I play Valorant and badminton :smirk:
 
 3. 
-
-[Back To Top](#1-feit_hackathon)
 <br>
 
 # 4. The Idea
@@ -68,44 +64,41 @@ develop a share economy program for better quality and more durable household it
 <div style="text-align: justify"> After the item is put up for sale, the buyer can contact the seller directly without contacting the team. The seller can adjust the price and the buyer has the ability to negotiate the price.</div>
 <br>
 <div style="text-align: justify"> In any cases that the item is not sellable, the students have the option to let the inspector to take that item for recycle purposes. The team will collect all unusuable product and recycle them according to the local Sydney council.</div>
-
-[Back To Top](#1-feit_hackathon)
 <br>
 
 # 5. Target
 
 <div style="text-align: justify"> All UTS students living on campus and all students living in the Central Sydney area. To access the website, students are required to registered with there UTS email account. </div>
-
-[Back To Top](#1-feit_hackathon)
 <br>
 
 # 6. But I can get my stuff from Ebay or Facebook market place for cheap?
 
 <div style="text-align: justify"> All product before putting up will be inspected for quality assurance to be in almost tip top conditions so students can reassured that they are not getting scammed or being charged an unreasonable price. When the students want to throw out the product purchased from the website, they can contact the team to arrange a pickup.</div>
-
-[Back To Top](#1-feit_hackathon)
 <br>
+
 # 7. Okay I'm in. But what about the price?
 
 <div style="text-align: justify"> As said before, all items are 2nd hand so you can rest easy that your wallet won't get money COVID. Ideally, all products will be priced as less than half of the original price. </div>
-
-[Back To Top](#1-feit_hackathon)
 <br>
+
 # 8. Ahh, I get it. But how is your business going to be profitable?
 
 <div style="text-align: justify"> The organisation will be unprofitable. We only take 10% profit out of every transactions to maintain the website, storage rental as well as using them for gas money and deliveries. In the future, we can ask for UTS for funding if this idea grows to a certain stage. </div>
-
-[Back To Top](#1-feit_hackathon)
 <br>
 
 # 9. How is the idea in line with the scope of the hackathon?
 
-If more items are being reused and recycled, the less waste is produced.
+<div style="text-align: justify">If more items are being reused and recycled, the less waste is produced.</div>
+<br>
 
 # 10. What would the team do if the idea scales up in the future? 
 
-Well, that means we have to get more people to help with the business and logistics. We will need to get a new storage space and also adjust our service price accordingly. But the most important factor is to provide UTS students with good price products. We can always use a hand if you want to volunteer for us.
+<div style="text-align: justify">Well, that means we have to get more people to help with the business and logistics. We will need to get a new storage space and also adjust our service price accordingly. But the most important factor is to provide UTS students with good price products. We can always use a hand if you want to volunteer for us.</div>
+<br>
 
 # 11. Awesome! So how can I join and what do I get in return?
 
-As a volunteer, you will help us to do inspection on the item. We will evaluate your specialty so that the inspecting item is within your knowledge. In return, we will work with UTS to provide you a certificate of appreciation. You can also help us with developing the website and logistics work.
+<div style="text-align: justify">As a volunteer, you will help us to do inspection on the item. We will evaluate your specialty so that the inspecting item is within your knowledge. In return, we will work with UTS to provide you a certificate of appreciation. You can also help us with developing the website and logistics work.</div>
+<br>
+
+[Back To Top](#1-feit_hackathon)
