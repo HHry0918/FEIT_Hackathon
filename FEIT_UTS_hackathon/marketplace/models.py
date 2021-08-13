@@ -1,0 +1,24 @@
+from django.db import models
+from django.utils import timezone
+from django.contrib.auth.models import User
+
+class Item(models.Model):
+
+    # 'item_name' : 'Nintendo Switch',
+    # 'seller' : 'Harry',
+    # 'id' : '13002884',
+    # 'description' : 'Unused - Damage cover',
+    # 'date' : today_str,
+    # 'status' : 'Verified',
+    # 'price' : '150$'
+    
+    item_name = models.CharField(max_length=120)
+    seller = models.ForeignKey(User, on_delete=models.CASCADE)
+    student_id = models.CharField(max_length=10, default=False)
+    description = models.TextField()
+    date = models.DateTimeField(default=timezone.now)
+    status_verified = models.BooleanField(default=False)
+    price = models.FloatField(default=round(float(0.00),2))
+    
+    def __str__(self):
+        return self.item_name
