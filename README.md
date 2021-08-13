@@ -12,10 +12,12 @@ UTSxFEIT Hackathon prototype 2nd hand prototype marketplace website
 - [3. Team Members](#3-team-members)
 - [4. The Idea](#4-the-idea)
 - [5. Target](#5-target)
-- [6. But can I get my stuff from Ebay or Facebook market place for cheap?](#6-but-can-i-get-my-stuff-from-ebay-or-facebook-market-place-for-cheap)
+- [6. But I can get my stuff from Ebay or Facebook market place for cheap?](#6-but-i-can-get-my-stuff-from-ebay-or-facebook-market-place-for-cheap)
 - [7. Okay I'm in. But what about the price?](#7-okay-im-in-but-what-about-the-price)
 - [8. Ahh, I get it. But how is your business going to be profitable?](#8-ahh-i-get-it-but-how-is-your-business-going-to-be-profitable)
 - [9. How is the idea in line with the scope of the hackathon?](#9-how-is-the-idea-in-line-with-the-scope-of-the-hackathon)
+- [10. What would the team do if the idea scales up in the future?](#10-what-would-the-team-do-if-the-idea-scales-up-in-the-future)
+- [11. Awesome! So how can I join and what do I get in return?](#11-awesome-so-how-can-i-join-and-what-do-i-get-in-return)
 
 # 2. Topic
 
@@ -61,7 +63,11 @@ develop a share economy program for better quality and more durable household it
 
 # 4. The Idea
 
-<div style="text-align: justify"> A centralised and an internal website for UTS Campus students to buy and sell their belongings when not used. Be it that for upgrading or moving out, the students can put up their item on sale and our team will arrange a meeting day to come and inspect the item. If the representative determine that the item is still usuable and in relatively good condition, they will approve the item to be put display on the market place. Any case that the item is not sellable, the students have the option to let the inspector to take that item for recycle purposes. The team will collect all unusuable product and recycle them according to the local Sydney council.</div>
+<div style="text-align: justify"> A centralised and an internal website for UTS Campus students to buy and sell their belongings when not used. Be it that for upgrading or moving out, the students can put up their item on sale and our team will arrange a meeting day to come and inspect the item. If the representative determine that the item is still usuable and in relatively good condition, they will approve the item to be put display on the market place. </div>
+<br>
+<div style="text-align: justify"> After the item is put up for sale, the buyer can contact the seller directly without contacting the team. The seller can adjust the price and the buyer has the ability to negotiate the price.</div>
+<br>
+<div style="text-align: justify"> In any cases that the item is not sellable, the students have the option to let the inspector to take that item for recycle purposes. The team will collect all unusuable product and recycle them according to the local Sydney council.</div>
 
 [Back To Top](#1-feit_hackathon)
 <br>
@@ -73,9 +79,9 @@ develop a share economy program for better quality and more durable household it
 [Back To Top](#1-feit_hackathon)
 <br>
 
-# 6. But can I get my stuff from Ebay or Facebook market place for cheap?
+# 6. But I can get my stuff from Ebay or Facebook market place for cheap?
 
-<div style="text-align: justify"> All product before putting up will be inspected for quality assurance to be in almost tip top conditions so students can reassured that they are not getting scammed or being charged an unreasonable price. </div>
+<div style="text-align: justify"> All product before putting up will be inspected for quality assurance to be in almost tip top conditions so students can reassured that they are not getting scammed or being charged an unreasonable price. When the students want to throw out the product purchased from the website, they can contact the team to arrange a pickup.</div>
 
 [Back To Top](#1-feit_hackathon)
 <br>
@@ -87,7 +93,7 @@ develop a share economy program for better quality and more durable household it
 <br>
 # 8. Ahh, I get it. But how is your business going to be profitable?
 
-<div style="text-align: justify"> The organisation will be unprofitable. We only take 10% profit out of every transactions to maintain the website as well as using them for gas money and deliveries. In the future, we can ask for UTS for funding if this idea grows to a certain stage. </div>
+<div style="text-align: justify"> The organisation will be unprofitable. We only take 10% profit out of every transactions to maintain the website, storage rental as well as using them for gas money and deliveries. In the future, we can ask for UTS for funding if this idea grows to a certain stage. </div>
 
 [Back To Top](#1-feit_hackathon)
 <br>
@@ -95,3 +101,11 @@ develop a share economy program for better quality and more durable household it
 # 9. How is the idea in line with the scope of the hackathon?
 
 If more items are being reused and recycled, the less waste is produced.
+
+# 10. What would the team do if the idea scales up in the future? 
+
+Well, that means we have to get more people to help with the business and logistics. We will need to get a new storage space and also adjust our service price accordingly. But the most important factor is to provide UTS students with good price products. We can always use a hand if you want to volunteer for us.
+
+# 11. Awesome! So how can I join and what do I get in return?
+
+As a volunteer, you will help us to do inspection on the item. We will evaluate your specialty so that the inspecting item is within your knowledge. In return, we will work with UTS to provide you a certificate of appreciation. You can also help us with developing the website and logistics work.
