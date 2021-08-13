@@ -3,14 +3,6 @@ from django.utils import timezone
 from django.contrib.auth.models import User
 
 class Item(models.Model):
-
-    # 'item_name' : 'Nintendo Switch',
-    # 'seller' : 'Harry',
-    # 'id' : '13002884',
-    # 'description' : 'Unused - Damage cover',
-    # 'date' : today_str,
-    # 'status' : 'Verified',
-    # 'price' : '150$'
     
     item_name = models.CharField(max_length=120)
     seller = models.ForeignKey(User, on_delete=models.CASCADE)

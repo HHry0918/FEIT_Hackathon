@@ -5,7 +5,7 @@
             <div class="media-body">
                 <div class="item-metadata">
                     <a class="mr-2" href="#">{{item.seller}}</a>
-                    <small class="text-muted">Student ID: {{item.student_id}} - Date: {{item.date}}</small>
+                    <small class="text-muted">Student ID: {{item.student_id}} - Date: {{item.date|date:"D, d F Y - P"}}</small>
                 </div>
                 <h2><a class="item-title" href="#">{{item.item_name}}</a></h2>
                 <p class="item-content">{{item.description}}</p>
