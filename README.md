@@ -48,13 +48,14 @@ develop a share economy program for better quality and more durable household it
 # 3. Team Members
 
 1. Sanskar Gauchan <br>
-    a. 
+    a. ID: 13984149 <br>
+    b. 2nd year bscit <br>
+    c. I can do a burnout on a motorbike <br>
+
 2. Minh Nguyen <br>
     a. ID: 13002884 <br>
     b. Final year Electrical Engineering students<br>
-    c. I play Valorant and badminton :smirk:
-
-3. 
+    c. I can do a cool wave
 <br>
 
 # 4. The Idea
