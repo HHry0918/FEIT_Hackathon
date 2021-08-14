@@ -5,6 +5,14 @@ from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from .forms import UserRegisterForm
 
+from rest_framework import viewsets
+from .serializers import UserSerializer
+from .models import User
+
+class UserView(viewsets.ModelViewSet):
+    serializer_class = UserSerializer
+    queryset = User.objects.all()
+
 def register(request):
     if request.method == 'POST':
         form = UserRegisterForm(request.POST)
